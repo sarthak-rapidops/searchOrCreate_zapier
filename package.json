@@ -1,0 +1,16 @@
+{
+  "name": "search-create",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "zapier-platform-core": "10.0.0"
+  },
+  "devDependencies": {
+    "jest": "^25.5.3"
+  },
+  "private": true
+}
